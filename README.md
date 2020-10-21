@@ -5,7 +5,7 @@
  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-<p>Desenvolvido com a aula "Recriando o game do dinossauro" da Digital Innovation One,  ministrado pelo <a href="https://github.com/celso-henrique" target="_blank" rel="noopener noreferrer nofollow"/></p>
+<p>Desenvolvido com a aula "Recriando o game do dinossauro" da Digital Innovation One,  ministrado pelo <a href="https://github.com/celso-henrique" target="_blank" rel="noopener noreferrer nofollow">Celso Henrique</a></p>
 
 ## Índice
 - [Descrição](#descrição)
