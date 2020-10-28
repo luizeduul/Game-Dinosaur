@@ -28,7 +28,7 @@
 
 <h3>Game</h3>
 <p align="center">
-  
+  <img alt="web" src="https://ik.imagekit.io/8qmbx6p1dq/DinosaurGame/game_dinosaur_ZYxkXtZg_.gif"/>
 </p>
 
 ---
